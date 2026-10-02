@@ -42,7 +42,7 @@
 <img src="https://img.shields.io/badge/🌐%20IN%20BROWSER-00a8ff?style=for-the-badge&labelColor=020617&color=00a8ff&logoColor=white">
 </a>
 
-<a href="./My-Website-Security-Report.pdf">
+<a href="./Pentest_Report_sachincybersecurity">
 <img src="https://img.shields.io/badge/🔐%20VAPT-00e5ff?style=for-the-badge&labelColor=020617&color=00e5ff&logoColor=white">
 </a>
 
