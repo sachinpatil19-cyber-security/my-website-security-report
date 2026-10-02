@@ -23,22 +23,28 @@
 <p align="center">
 
 <a href="https://sachincybersecurity.page.gd/">
-<img src="https://img.shields.io/badge/🌐_WEBSITE-Sachin_Patil-00e5ff?style=for-the-badge&labelColor=020617">
+<img src="https://img.shields.io/badge/🌐%20WEBSITE-00e5ff?style=for-the-badge&labelColor=020617&color=00e5ff&logoColor=white">
 </a>
 
 <a href="https://sachincybersecurity.page.gd/">
-<img src="https://img.shields.io/badge/👨‍💻_PORTFOLIO-VAPT_Analyst-7c3aed?style=for-the-badge&labelColor=020617">
+<img src="https://img.shields.io/badge/👨‍💻%20PORTFOLIO-7c3aed?style=for-the-badge&labelColor=020617&color=7c3aed&logoColor=white">
 </a>
 
 <a href="./My-Website-Security-Report.pdf">
-<img src="https://img.shields.io/badge/📄_FULL_REPORT-View_PDF-ff0055?style=for-the-badge&labelColor=020617">
+<img src="https://img.shields.io/badge/📄%20FULL%20REPORT-ff0055?style=for-the-badge&labelColor=020617&color=ff0055&logoColor=white">
 </a>
 
 <a href="./My-Website-Security-Report.pdf">
-<img src="https://img.shields.io/badge/🔎_VIEW_REPORT-IN_BROWSER-00c853?style=for-the-badge&labelColor=020617">
+<img src="https://img.shields.io/badge/🔎%20VIEW%20REPORT-00c853?style=for-the-badge&labelColor=020617&color=00c853&logoColor=white">
 </a>
 
-<img src="https://img.shields.io/badge/🔐_VAPT-SECURITY_ASSESSMENT-00e5ff?style=for-the-badge&labelColor=020617">
+<a href="./My-Website-Security-Report.pdf">
+<img src="https://img.shields.io/badge/🌐%20IN%20BROWSER-00a8ff?style=for-the-badge&labelColor=020617&color=00a8ff&logoColor=white">
+</a>
+
+<a href="./My-Website-Security-Report.pdf">
+<img src="https://img.shields.io/badge/🔐%20VAPT-00e5ff?style=for-the-badge&labelColor=020617&color=00e5ff&logoColor=white">
+</a>
 
 </p>
 ---
