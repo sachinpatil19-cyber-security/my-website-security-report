@@ -23,17 +23,24 @@
 <p align="center">
 
 <a href="https://sachincybersecurity.page.gd/">
-<img src="https://img.shields.io/badge/🌐_Portfolio-Sachin_Patil-00e5ff?style=for-the-badge&labelColor=020617">
+<img src="https://img.shields.io/badge/🌐_WEBSITE-Sachin_Patil-00e5ff?style=for-the-badge&labelColor=020617">
+</a>
+
+<a href="https://sachincybersecurity.page.gd/">
+<img src="https://img.shields.io/badge/👨‍💻_PORTFOLIO-VAPT_Analyst-7c3aed?style=for-the-badge&labelColor=020617">
 </a>
 
 <a href="./My-Website-Security-Report.pdf">
-<img src="https://img.shields.io/badge/📄_Full_Report-View_PDF-ff0055?style=for-the-badge&labelColor=020617">
+<img src="https://img.shields.io/badge/📄_FULL_REPORT-View_PDF-ff0055?style=for-the-badge&labelColor=020617">
 </a>
 
-<img src="https://img.shields.io/badge/🔐-VAPT-7c3aed?style=for-the-badge&labelColor=020617">
+<a href="./My-Website-Security-Report.pdf">
+<img src="https://img.shields.io/badge/🔎_VIEW_REPORT-IN_BROWSER-00c853?style=for-the-badge&labelColor=020617">
+</a>
+
+<img src="https://img.shields.io/badge/🔐_VAPT-SECURITY_ASSESSMENT-00e5ff?style=for-the-badge&labelColor=020617">
 
 </p>
-
 ---
 
 # 🛡️ MY WEBSITE SECURITY REPORT
