@@ -30,15 +30,15 @@
 <img src="https://img.shields.io/badge/👨‍💻%20PORTFOLIO-7c3aed?style=for-the-badge&labelColor=020617&color=7c3aed&logoColor=white">
 </a>
 
-<a href="./My-Website-Security-Report.pdf">
+<a href="./Pentest_Report_sachincybersecurity.pdf">
 <img src="https://img.shields.io/badge/📄%20FULL%20REPORT-ff0055?style=for-the-badge&labelColor=020617&color=ff0055&logoColor=white">
 </a>
 
-<a href="./My-Website-Security-Report.pdf">
+<a href="./Pentest_Report_sachincybersecurity.pdf">
 <img src="https://img.shields.io/badge/🔎%20VIEW%20REPORT-00c853?style=for-the-badge&labelColor=020617&color=00c853&logoColor=white">
 </a>
 
-<a href="./My-Website-Security-Report.pdf">
+<a href="./Pentest_Report_sachincybersecurity.pdf">
 <img src="https://img.shields.io/badge/🌐%20IN%20BROWSER-00a8ff?style=for-the-badge&labelColor=020617&color=00a8ff&logoColor=white">
 </a>
 
