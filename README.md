@@ -40,15 +40,10 @@
 
 > **A hands-on Web Application Vulnerability Assessment & Penetration Testing report for my own cybersecurity portfolio website.**
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                  SECURITY ASSESSMENT                         ║
-╠══════════════════════════════════════════════════════════════╣
-║ Target       : sachincybersecurity.page.gd                  ║
-║ Assessment   : Web Application VAPT                          ║
-║ Findings     : 09                                             ║
-║ Critical     : 02                                             ║
-║ High         : 01                                             ║
-║ Medium       : 04                                             ║
-║ Low          : 02                                             ║
-╚══════════════════════════════════════════════════════════════╝
+<p align="center">
+  <img
+    src="./security-assessment-animated.svg"
+    alt="Animated Security Assessment Dashboard"
+    width="760"
+  />
+</p>
