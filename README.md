@@ -22,11 +22,11 @@
 
 <p align="center">
 
-<a href="https://sachincybersecurity.page.gd/">
+<a href="https://sachincybersecurity.site.je">
 <img src="https://img.shields.io/badge/🌐%20WEBSITE-00e5ff?style=for-the-badge&labelColor=020617&color=00e5ff&logoColor=white">
 </a>
 
-<a href="https://sachincybersecurity.page.gd/">
+<a href="https://sachincybersecurity.site.je">
 <img src="https://img.shields.io/badge/👨‍💻%20PORTFOLIO-7c3aed?style=for-the-badge&labelColor=020617&color=7c3aed&logoColor=white">
 </a>
 
