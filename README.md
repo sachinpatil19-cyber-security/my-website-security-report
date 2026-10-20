@@ -44,7 +44,7 @@
 
 <!-- EDIT: replace X with the real numbers from your PDF -->
 
-| **9** <br> Total Findings | **2** <br> High / Critical | **4** <br> Medium | **1** <br> Low / Info |
+| **9** <br> Total Findings | **3** <br> High / Critical | **4** <br> Medium | **2** <br> Low / Info |
 |:---:|:---:|:---:|:---:|
 
 ---
