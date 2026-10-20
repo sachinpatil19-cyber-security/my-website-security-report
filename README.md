@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://sachincybersecurity.page.gd/"><img src="https://img.shields.io/badge/Portfolio-00e5ff?style=for-the-badge&labelColor=020617&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://sachincybersecurity.site.je/"><img src="https://img.shields.io/badge/Portfolio-00e5ff?style=for-the-badge&labelColor=020617&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="./Pentest_Report_sachincybersecurity.pdf"><img src="https://img.shields.io/badge/Full%20Report-ff0055?style=for-the-badge&labelColor=020617&logo=adobeacrobatreader&logoColor=white" alt="Full report"></a>
   <a href="https://github.com/sachinpatil19-cyber-security"><img src="https://img.shields.io/badge/GitHub%20Profile-7c3aed?style=for-the-badge&labelColor=020617&logo=github&logoColor=white" alt="GitHub profile"></a>
 </p>
@@ -34,7 +34,7 @@
 | | |
 |---|---|
 | **Role fit** | VAPT / Cyber Security Associate |
-| **Target** | My own portfolio website ([sachincybersecurity.page.gd](https://sachincybersecurity.page.gd/)) |
+| **Target** | My own portfolio website ([sachincybersecurity.site.je](https://sachincybersecurity.site.je/)) |
 | **Focus areas** | Authentication · Session management · Input validation |
 | **Deliverable** | Client-style report with scope, methodology, risk-rated findings, PoC and remediation |
 
@@ -126,7 +126,7 @@ All testing was performed on a website I own, with full authorization. No third-
 <p align="center">
   <strong>Open to VAPT / Cyber Security Associate roles</strong> — Web, API and Network penetration testing<br><br>
   <a href="https://github.com/sachinpatil19-cyber-security">GitHub</a> ·
-  <a href="https://sachincybersecurity.page.gd/">Portfolio</a> · Mumbai, Maharashtra
+  <a href="https://sachincybersecurity.site.je/">Portfolio</a> · Mumbai, Maharashtra
 </p>
 
 <p align="center">
