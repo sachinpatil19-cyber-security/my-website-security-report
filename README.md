@@ -4,23 +4,23 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0f172a,60:111827,100:00e5ff&height=200&section=header&text=Website%20Security%20Report&fontSize=34&fontColor=00e5ff&animation=fadeIn&fontAlignY=38&desc=Web%20Application%20VAPT%20%C2%B7%20Proof%20of%20Concept%20%C2%B7%20Remediation&descSize=15&descColor=94a3b8&descAlignY=58"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a0a0a,60:140000,100:ff1a1a&height=200&section=header&text=Website%20Security%20Report&fontSize=34&fontColor=ff1a1a&animation=fadeIn&fontAlignY=38&desc=Web%20Application%20VAPT%20%C2%B7%20Proof%20of%20Concept%20%C2%B7%20Remediation&descSize=15&descColor=a3a3a3&descAlignY=58"
     width="100%"
     alt="Website Security Report"
   />
 </p>
 
 <p align="center">
-  <a href="https://sachincybersecurity.site.je/"><img src="https://img.shields.io/badge/Portfolio-00e5ff?style=for-the-badge&labelColor=020617&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="./Pentest_Report_sachincybersecurity.pdf"><img src="https://img.shields.io/badge/Full%20Report-ff0055?style=for-the-badge&labelColor=020617&logo=adobeacrobatreader&logoColor=white" alt="Full report"></a>
-  <a href="https://github.com/sachinpatil19-cyber-security"><img src="https://img.shields.io/badge/GitHub%20Profile-7c3aed?style=for-the-badge&labelColor=020617&logo=github&logoColor=white" alt="GitHub profile"></a>
+  <a href="https://sachincybersecurity.site.je/"><img src="https://img.shields.io/badge/Portfolio-ff1a1a?style=for-the-badge&labelColor=000000&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="./Pentest_Report_sachincybersecurity.pdf"><img src="https://img.shields.io/badge/Full%20Report-ff0033?style=for-the-badge&labelColor=000000&logo=adobeacrobatreader&logoColor=white" alt="Full report"></a>
+  <a href="https://github.com/sachinpatil19-cyber-security"><img src="https://img.shields.io/badge/GitHub%20Profile-b91c1c?style=for-the-badge&labelColor=000000&logo=github&logoColor=white" alt="GitHub profile"></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Type-Web%20App%20VAPT-00e5ff?style=flat-square&labelColor=0f172a" alt="Type">
-  <img src="https://img.shields.io/badge/Standard-OWASP%20Top%2010-00c853?style=flat-square&labelColor=0f172a" alt="OWASP">
-  <img src="https://img.shields.io/badge/Target-Own%20Website-7c3aed?style=flat-square&labelColor=0f172a" alt="Target">
-  <img src="https://img.shields.io/badge/Format-PDF%20Report-ff0055?style=flat-square&labelColor=0f172a" alt="Format">
+  <img src="https://img.shields.io/badge/Type-Web%20App%20VAPT-ff1a1a?style=flat-square&labelColor=0a0a0a" alt="Type">
+  <img src="https://img.shields.io/badge/Standard-OWASP%20Top%2010-7f1d1d?style=flat-square&labelColor=0a0a0a" alt="OWASP">
+  <img src="https://img.shields.io/badge/Target-Own%20Website-b91c1c?style=flat-square&labelColor=0a0a0a" alt="Target">
+  <img src="https://img.shields.io/badge/Format-PDF%20Report-ff0033?style=flat-square&labelColor=0a0a0a" alt="Format">
 </p>
 
 <p align="center">
@@ -44,7 +44,7 @@
 
 <!-- EDIT: replace X with the real numbers from your PDF -->
 
-| **X** <br> Total Findings | **X** <br> High / Critical | **X** <br> Medium | **X** <br> Low / Info |
+| **9** <br> Total Findings | **2** <br> High / Critical | **4** <br> Medium | **1** <br> Low / Info |
 |:---:|:---:|:---:|:---:|
 
 ---
@@ -83,9 +83,9 @@ Reconnaissance → Vulnerability Identification → Manual & Automated Testing
 
 | # | Finding | Severity | Status |
 |:---:|---|:---:|:---:|
-| 1 | _Finding title_ | ![High](https://img.shields.io/badge/High-ff0055?style=flat-square) | Fixed |
+| 1 | _Finding title_ | ![High](https://img.shields.io/badge/High-ff0000?style=flat-square) | Fixed |
 | 2 | _Finding title_ | ![Medium](https://img.shields.io/badge/Medium-f59e0b?style=flat-square) | Fixed |
-| 3 | _Finding title_ | ![Low](https://img.shields.io/badge/Low-00c853?style=flat-square) | Open |
+| 3 | _Finding title_ | ![Low](https://img.shields.io/badge/Low-6b7280?style=flat-square) | Open |
 
 ---
 
@@ -94,12 +94,12 @@ Reconnaissance → Vulnerability Identification → Manual & Automated Testing
 <!-- EDIT: remove any tool you did not use in this assessment -->
 
 <p>
-  <img src="https://img.shields.io/badge/Burp%20Suite-ff6633?style=for-the-badge&labelColor=0f172a" alt="Burp Suite">
-  <img src="https://img.shields.io/badge/Nmap-00e5ff?style=for-the-badge&labelColor=0f172a" alt="Nmap">
-  <img src="https://img.shields.io/badge/Nessus-00c853?style=for-the-badge&labelColor=0f172a" alt="Nessus">
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&labelColor=0f172a&logo=kalilinux&logoColor=white" alt="Kali Linux">
-  <img src="https://img.shields.io/badge/SQLMap-7c3aed?style=for-the-badge&labelColor=0f172a" alt="SQLMap">
-  <img src="https://img.shields.io/badge/Nuclei-00a8ff?style=for-the-badge&labelColor=0f172a" alt="Nuclei">
+  <img src="https://img.shields.io/badge/Burp%20Suite-ff3b30?style=for-the-badge&labelColor=0a0a0a" alt="Burp Suite">
+  <img src="https://img.shields.io/badge/Nmap-ff1a1a?style=for-the-badge&labelColor=0a0a0a" alt="Nmap">
+  <img src="https://img.shields.io/badge/Nessus-7f1d1d?style=for-the-badge&labelColor=0a0a0a" alt="Nessus">
+  <img src="https://img.shields.io/badge/Kali%20Linux-450a0a?style=for-the-badge&labelColor=0a0a0a&logo=kalilinux&logoColor=white" alt="Kali Linux">
+  <img src="https://img.shields.io/badge/SQLMap-b91c1c?style=for-the-badge&labelColor=0a0a0a" alt="SQLMap">
+  <img src="https://img.shields.io/badge/Nuclei-991b1b?style=for-the-badge&labelColor=0a0a0a" alt="Nuclei">
 </p>
 
 ---
@@ -130,5 +130,5 @@ All testing was performed on a website I own, with full authorization. No third-
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,40:111827,100:020617&height=100&section=footer" width="100%" alt="">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1a1a,40:140000,100:000000&height=100&section=footer" width="100%" alt="">
 </p>
